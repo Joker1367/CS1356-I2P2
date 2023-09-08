@@ -1,4 +1,3 @@
-#######
 # CS1356-I2P2
 2021 fall CS1356 Introduction to Programming (II)
 Instructor : Prof. Hwann-Tzong Chen
